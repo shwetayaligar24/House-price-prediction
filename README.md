@@ -58,4 +58,8 @@ Predict house prices using features like location, size, number of rooms, and ot
 ---
 
 ## 📌 Conclusion
-Machine learning can effectively predict house prices and support real estate decision-making.
+The House Price Prediction project successfully demonstrates an end-to-end machine learning pipeline, from data preprocessing and exploratory analysis to feature engineering and model development.
+
+After evaluating multiple regression models, XGBoost delivered the best performance with an R² score of 0.89, providing accurate and stable predictions. Key features such as overall quality, living area, and location were found to have a significant impact on house prices.
+
+This project highlights the importance of data cleaning, handling missing values, and feature engineering in improving model performance. The developed model can support real estate decision-making by providing reliable price estimations.
