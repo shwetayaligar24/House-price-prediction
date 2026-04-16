@@ -1,5 +1,11 @@
 # House-price-prediction
-Developed a machine learning model to predict house prices using location and property features. Performed data cleaning, EDA, and feature engineering. Applied regression models and optimized using XGBoost, achieving an R² score of 0.89 and identifying key factors influencing pricing 
+Developed an advanced machine learning model to predict house prices using location, size, and structural features.
+
+Performed end-to-end data preprocessing including handling missing values, outlier detection, and skewness reduction to improve data quality. Conducted exploratory data analysis (EDA) to understand key relationships between features and price.
+
+Implemented feature engineering techniques to enhance model performance and applied multiple regression algorithms. Optimized the final model using XGBoost, achieving an R² score of 0.89.
+
+The project identified important factors influencing house prices such as location, area, and number of rooms, providing valuable insights for real estate pricing and decision-making.
 
 ---
 
